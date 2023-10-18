@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiajZveHd3a3gzYzVzaXAyNDUyYXo2bTQwY3Bja2FtMmc0ODRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJiajZveHd3a3gzYzVzaXAyNDUyYXo2bTQwY3Bja2FtMmc0ODRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/luckyrathore/">
