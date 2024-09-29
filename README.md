@@ -16,7 +16,7 @@
 </div>
 
 ### Hello, I'm Lucky Rathore 👋
-I'm a dedicated Full Stack Developer <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="30"> based in India, with a fervor for shaping outstanding digital experiences. My voyage in the realm of technology has been a thrilling expedition, and I thrive on the complexities of constructing resilient, user-centric applications and solutions. My practical expertise extends across web technologies like HTML, CSS, and JavaScript, as well as comprehensive full stack development utilizing the MERN Stack. Additionally, I've had the opportunity to engage with tools such as Jupyter Notebook, Google Cloud Platform, Power BI, and React Native.
+I'm a Software Engineer dedicated towards MERN Stack Development <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="30"> based in India, with a fervor for shaping outstanding digital experiences. My voyage in the realm of technology has been a thrilling expedition, and I thrive on the complexities of constructing resilient, user-centric applications and solutions. My practical expertise extends across web technologies like HTML, CSS, and JavaScript, as well as comprehensive full stack development utilizing the MERN Stack. Additionally, I've had the opportunity to engage with tools such as Jupyter Notebook, Google Cloud Platform, Power BI, and React Native.
 
 #### What I'm up to 💼
 I'm constantly honing my skills and exploring emerging technologies. Whether it's building web applications, conducting data analysis, developing mobile apps, or any other technical challenge I'm always eager to tackle the next exciting project.
@@ -30,19 +30,15 @@ Thanks for visiting my GitHub profile! Let's innovate and build amazing things t
 
 <div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
